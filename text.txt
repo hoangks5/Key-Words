@@ -1,1 +1,5 @@
-One can also solve this problem using Newton’s method. In this case, becausethe true function is quadratic, the quadratic approximation employed by Newton’smethod is exact, and the algorithm converges to the global minimum in a singlestep.
+The keyword extraction process helps us in identifying the important words. It also effective in topic modeling tasks. You can know a lot about your text data by only a few keywords. These keywords will help you to determine whether you want to read an article or not.
+
+In this article, I have explained 4 python libraries (spaCy, YAKE, rake-nltk, Gensim) that fetch the keywords from the article or text data. You can also search for other python libraries for a similar task.
+
+Hopefully, this article will help you with your NLP tasks.
