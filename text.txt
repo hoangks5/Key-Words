@@ -1,30 +1,43 @@
-Organized and managed Oraichain Team, Oraichain Academy will be an online journal to communicate Oraichain’s technology and distribute Oraichain’s research and views on various trending topics regarding Blockchain and Crypto. Compared to our blog which is mainly used for announcing purposes, Oraichain Academy will provide more in-depth discussion both technically and academically. Through this journal, we hope general community members, developers and researchers will have a whole picture of what is important to us, why we think so, and how we will execute to achieve every goal.
+Navigating through the timeline of Internet Age from a lesser-known concept in the 1990s to frequent invasions into global trending headlines as a controversial talking point, the blockchain technology has succeeded in taking the world to a certain extent by the introduction of Bitcoin and many other network and layer models to innovate the whole finance sector and other fields.. Conceived by Satoshi Nakamoto whose identity still remains unknown to the public, Bitcoin was no longer alone in the first flush of decentralization as many projects started rising to prominence with the blockchain technology, and their intensive use of  many state-of-the-art public key cryptography protocols and mechanisms. Most networks are maintained and secured by validators.
 
-Let’s get started!
+Despite increasing popularity & adoption of this nascent technology, there might exist the sheer absence of proper understanding about the ultimate importance of validators on any blockchain networks. The term “validator” here, in practice, may not be applicable to those who are at times known as “miner” on the Bitcoin network or any other distributed systems relying on Proof of Work (PoW) mechanism. “Validators” instead are known to be in charge of maintaining a Proof of Stake (PoS) network.
 
-The Motivation
-Oraichain, as the world’s first AI-powered oracle and blockchain ecosystem, has constantly demonstrated its potential by impressively achieving numerous milestones along the way. On one hand, the rapid growth also leads us - the developers - to a major question: How can we communicate all underlying technologies and at the same time, get our community to keep up with every technical development?
+Since the confusion in terminology most likely traces back to their own types of conceptualization, this article will break them down into basics based on two most distinguished blockchain consensus methods - Proof of Work (PoW) and Proof of Stake (PoS), these respective “miner” and “validator” actors, and Oraichain’s steady approach to Delegated Proof of Stake (DPoS) in light of a complete AI x Blockchain ecosystem.
 
-On the other hand, we wonder if there is a need to describe our views on diverse topics in Blockchain and Crypto that have shaped our decisions on technology development?
+Glossary:
+Distributed ledger: a database held and updated independently by each participant (or node) in a large network (courtesy of Coindesk).
+Blockchain consensus: a procedure in which the peers of a Blockchain network reach agreement about the present state of the data in the network (courtesy of Crypto.com).
+Proof of Work (PoW) and Proof of Stake (PoS): two consensus mechanisms that are widely adopted among blockchains for processing transactions and creating new blocks;
+Double-spending: a potential issue in a digital cash system where the same funds are sent to two recipients at the same time (courtesy of Binance Academy).
+1. Proof of Work & Miners
+Honorable mentions: Bitcoin, Ethereum 1.0
 
-Those questions convey an idea of launching an online journal, in which everyone is welcome to visit, read, and gain valuable knowledge about Oraichain ecosystem and our opinions on various topics within the fields.
+Proof of Work points to a primitive consensus algorithm with intent to prevent double-spending on a blockchain network. This can be done by requiring a miner (the network actor responsible for verifying transactions & mining new blocks) to seriously invest their resources for the resolution of a “computational” puzzle, which in the form of calculating the “nonce” - "number used only once" on his own.
 
-The Categories
-There are three main topic categories in Oraichain Academy journal: “Technology”, “Research”, and “Perspective”.
+That supreme level of difficulty & security (especially when the blockchain has a long-time & immutable history of transaction data) appears to come at a considerable expense of severe computational power consumption or in other saying, miners may have to embrace the exorbitant costs to get themselves the only one who mines that new block successfully then receive the eventual privilege of rewards in form of newly mined tokens.
 
-“Technology”:
+For every now and then, a single device seems far from being enough for block mining on PoW networks but it’s the mining farm constituted by multiple setups that comes into the stiff gameplay of “First solve, first served” alike.
 
-First and foremost, Oraichain Academy is expected to be a technical communication between us and the public, especially when it comes to satisfying the demand of those who want to dive deep into Oraichain technology. All the articles will be written in both English and Vietnamese, covering a large variety of topics, hence offering accessibility to audiences from different language and knowledge backgrounds.
+PoW is absolutely a rigorous test of stamina for miners, or more precisely, their mining devices while dealing with the nonces. That being said, miners have no regrets for it thanks to a promising effort-reward trade-off.
 
-“Research”:
+2. Proof of Stake & Validators
+Honorable mentions: Solana, Polkadot
 
-Secondly, we find it also necessary to describe what we are putting our researchers and scientists' minds onto; hence the “Research” category. The public and community tend to be more impressed by the technology than the knowledge that creates the technology itself. However, this inadequacy can lead to false understandings, eventually resulting in the unpleasantness and dissatisfaction of anyone involved. To avoid those negative effects, Oraichain Academy will describe our reasoning and analysis on various topics that are either important to our system design decisions or promising in the future roadmap.
+Everything happens for a reason. Proof of Work basically seems problematic while putting constraints of the kind on both those interested in network maintenance as miners and end-users on the blockchain. For instance, the accessibility to decentralized apps (DApps) would be put under suppression due to high transaction fees that users have to pay for everytime they interact with smart contracts and request a transaction execution.
 
-“Perspective”:
+The fundamental idea behind Proof of Stake is that instead of figuring out the nonce inherent in Proof of Work, you can just stake tokens as collateral for your operation and can start participating in the blockchain as “validators” with the staked tokens representing your “voting power”. A cluster of validators are then selected at random for choosing a validator to validate transactions within a block before reaching consensus with the rest (by voting) to write (or “mint”) the new block on the distributed ledger.
 
-Finally, the Oraichain team has its own “DNA” and we observe the world through our distinct eyes and knowledge background, hence “Perspective”. Oraichain Academy will be the perfect place for us to speak our minds about everything that matches our interests like new state-of-the-art in Blockchain space, or important crypto events.
+Malicious and wrongful behaviors are liable to receive a disapproval penalty mechanism called slashing, whereby validators are held accountable for their works if they commit any wrongdoings.
 
-The Goal
-With Oraichain Academy, we communicate effectively, educate people who are in need, and create good content that makes impacts. Indeed, we expect the debut of Oraichain Academy will play a great contribution to the Oraichain ecosystem, by not only defining innovation at its most but also delivering our authentic knowledge and perspective.
+After a long period of utilizing the energy-intensive PoW, Ethereum is envisioned to make a decisive shift from PoW to PoS to fall into line with its future evolution and success, turning out to be a question of time.
 
-Have some good reads!
+3. Delegated Proof of Stake (DPoS) & Oraichain’s approach toward decentralization
+Honorable mentions: Cosmos Hub, Tezos, and Oraichain!
+
+In a bid to distribute the chance for everyone to participate in the network with minimal effort, Delegated Proof of Stake inherits the essentials of precedent consensus methods that mostly derive from Proof of Stake such as token staking, voting power, slashing and more. However, DPoS’s practical mechanism encourages the agility of how validators can add up his voting power through staked tokens of anyone who owns governance tokens on the blockchain.
+
+Validators, in fact, are not given custody of staked tokens (aka. delegation) but those incremental holdings advocate them in the consolidation of voting power in democratic fashion. The rewards from minting new blocks are thus split among both the validator and his delegators, upholding a collaborative way of sharing benefits and responsibilities. To this end, delegators in DPoS are considered an equally important aspect of network stability in addition to validators.
+
+Oraichain’s all-important decision to apply DPoS in early 2020 has empowered the strategic long-term vision of constructing its robust blockchain as the world’s first AI Layer 1 for Data Economy and AI Oracle services. Validators on Oraichain Mainnet 2.0 join forces to attain a stable, secure, and high-throughput infrastructure at scale while powering a complete AI x Blockchain ecosystem for the creation of a new generation of AI-powered smart contracts and Dapps. Besides Mainnet, validators also participate in other subnets of specific purposes such as VRF, AI Oracle, AI Executor, Kawaiiverse Subnetwork, aiRight Subnetwork, and more with an interexchangable mechanism of native tokens as incentives.
+
+Towards a future of decentralized computating models, the role of validators will become more important and essentially the workers, data keepers and verifiers of the digital world.
