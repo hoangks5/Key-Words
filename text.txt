@@ -1,6 +1,30 @@
+Organized and managed Oraichain Team, Oraichain Academy will be an online journal to communicate Oraichain’s technology and distribute Oraichain’s research and views on various trending topics regarding Blockchain and Crypto. Compared to our blog which is mainly used for announcing purposes, Oraichain Academy will provide more in-depth discussion both technically and academically. Through this journal, we hope general community members, developers and researchers will have a whole picture of what is important to us, why we think so, and how we will execute to achieve every goal.
 
-I was unable to get a request working using application/octet-stream type posts, but have used multipart/form-data type forms in the past to upload images using flask.
+Let’s get started!
 
-I have extended what I have done in the past to support multiple upload files and this has worked leveraging werkzeug's FileStorage objects.
+The Motivation
+Oraichain, as the world’s first AI-powered oracle and blockchain ecosystem, has constantly demonstrated its potential by impressively achieving numerous milestones along the way. On one hand, the rapid growth also leads us - the developers - to a major question: How can we communicate all underlying technologies and at the same time, get our community to keep up with every technical development?
 
-The key here is setting up a post based route that is looking for a request element from a form. This should allow you to POST to the route either via a standard form or an AJAX call.
+On the other hand, we wonder if there is a need to describe our views on diverse topics in Blockchain and Crypto that have shaped our decisions on technology development?
+
+Those questions convey an idea of launching an online journal, in which everyone is welcome to visit, read, and gain valuable knowledge about Oraichain ecosystem and our opinions on various topics within the fields.
+
+The Categories
+There are three main topic categories in Oraichain Academy journal: “Technology”, “Research”, and “Perspective”.
+
+“Technology”:
+
+First and foremost, Oraichain Academy is expected to be a technical communication between us and the public, especially when it comes to satisfying the demand of those who want to dive deep into Oraichain technology. All the articles will be written in both English and Vietnamese, covering a large variety of topics, hence offering accessibility to audiences from different language and knowledge backgrounds.
+
+“Research”:
+
+Secondly, we find it also necessary to describe what we are putting our researchers and scientists' minds onto; hence the “Research” category. The public and community tend to be more impressed by the technology than the knowledge that creates the technology itself. However, this inadequacy can lead to false understandings, eventually resulting in the unpleasantness and dissatisfaction of anyone involved. To avoid those negative effects, Oraichain Academy will describe our reasoning and analysis on various topics that are either important to our system design decisions or promising in the future roadmap.
+
+“Perspective”:
+
+Finally, the Oraichain team has its own “DNA” and we observe the world through our distinct eyes and knowledge background, hence “Perspective”. Oraichain Academy will be the perfect place for us to speak our minds about everything that matches our interests like new state-of-the-art in Blockchain space, or important crypto events.
+
+The Goal
+With Oraichain Academy, we communicate effectively, educate people who are in need, and create good content that makes impacts. Indeed, we expect the debut of Oraichain Academy will play a great contribution to the Oraichain ecosystem, by not only defining innovation at its most but also delivering our authentic knowledge and perspective.
+
+Have some good reads!
