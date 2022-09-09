@@ -1,43 +1,487 @@
-Navigating through the timeline of Internet Age from a lesser-known concept in the 1990s to frequent invasions into global trending headlines as a controversial talking point, the blockchain technology has succeeded in taking the world to a certain extent by the introduction of Bitcoin and many other network and layer models to innovate the whole finance sector and other fields.. Conceived by Satoshi Nakamoto whose identity still remains unknown to the public, Bitcoin was no longer alone in the first flush of decentralization as many projects started rising to prominence with the blockchain technology, and their intensive use of  many state-of-the-art public key cryptography protocols and mechanisms. Most networks are maintained and secured by validators.
-
-Despite increasing popularity & adoption of this nascent technology, there might exist the sheer absence of proper understanding about the ultimate importance of validators on any blockchain networks. The term “validator” here, in practice, may not be applicable to those who are at times known as “miner” on the Bitcoin network or any other distributed systems relying on Proof of Work (PoW) mechanism. “Validators” instead are known to be in charge of maintaining a Proof of Stake (PoS) network.
-
-Since the confusion in terminology most likely traces back to their own types of conceptualization, this article will break them down into basics based on two most distinguished blockchain consensus methods - Proof of Work (PoW) and Proof of Stake (PoS), these respective “miner” and “validator” actors, and Oraichain’s steady approach to Delegated Proof of Stake (DPoS) in light of a complete AI x Blockchain ecosystem.
-
-Glossary:
-Distributed ledger: a database held and updated independently by each participant (or node) in a large network (courtesy of Coindesk).
-Blockchain consensus: a procedure in which the peers of a Blockchain network reach agreement about the present state of the data in the network (courtesy of Crypto.com).
-Proof of Work (PoW) and Proof of Stake (PoS): two consensus mechanisms that are widely adopted among blockchains for processing transactions and creating new blocks;
-Double-spending: a potential issue in a digital cash system where the same funds are sent to two recipients at the same time (courtesy of Binance Academy).
-1. Proof of Work & Miners
-Honorable mentions: Bitcoin, Ethereum 1.0
-
-Proof of Work points to a primitive consensus algorithm with intent to prevent double-spending on a blockchain network. This can be done by requiring a miner (the network actor responsible for verifying transactions & mining new blocks) to seriously invest their resources for the resolution of a “computational” puzzle, which in the form of calculating the “nonce” - "number used only once" on his own.
-
-That supreme level of difficulty & security (especially when the blockchain has a long-time & immutable history of transaction data) appears to come at a considerable expense of severe computational power consumption or in other saying, miners may have to embrace the exorbitant costs to get themselves the only one who mines that new block successfully then receive the eventual privilege of rewards in form of newly mined tokens.
-
-For every now and then, a single device seems far from being enough for block mining on PoW networks but it’s the mining farm constituted by multiple setups that comes into the stiff gameplay of “First solve, first served” alike.
-
-PoW is absolutely a rigorous test of stamina for miners, or more precisely, their mining devices while dealing with the nonces. That being said, miners have no regrets for it thanks to a promising effort-reward trade-off.
-
-2. Proof of Stake & Validators
-Honorable mentions: Solana, Polkadot
-
-Everything happens for a reason. Proof of Work basically seems problematic while putting constraints of the kind on both those interested in network maintenance as miners and end-users on the blockchain. For instance, the accessibility to decentralized apps (DApps) would be put under suppression due to high transaction fees that users have to pay for everytime they interact with smart contracts and request a transaction execution.
-
-The fundamental idea behind Proof of Stake is that instead of figuring out the nonce inherent in Proof of Work, you can just stake tokens as collateral for your operation and can start participating in the blockchain as “validators” with the staked tokens representing your “voting power”. A cluster of validators are then selected at random for choosing a validator to validate transactions within a block before reaching consensus with the rest (by voting) to write (or “mint”) the new block on the distributed ledger.
-
-Malicious and wrongful behaviors are liable to receive a disapproval penalty mechanism called slashing, whereby validators are held accountable for their works if they commit any wrongdoings.
-
-After a long period of utilizing the energy-intensive PoW, Ethereum is envisioned to make a decisive shift from PoW to PoS to fall into line with its future evolution and success, turning out to be a question of time.
-
-3. Delegated Proof of Stake (DPoS) & Oraichain’s approach toward decentralization
-Honorable mentions: Cosmos Hub, Tezos, and Oraichain!
-
-In a bid to distribute the chance for everyone to participate in the network with minimal effort, Delegated Proof of Stake inherits the essentials of precedent consensus methods that mostly derive from Proof of Stake such as token staking, voting power, slashing and more. However, DPoS’s practical mechanism encourages the agility of how validators can add up his voting power through staked tokens of anyone who owns governance tokens on the blockchain.
-
-Validators, in fact, are not given custody of staked tokens (aka. delegation) but those incremental holdings advocate them in the consolidation of voting power in democratic fashion. The rewards from minting new blocks are thus split among both the validator and his delegators, upholding a collaborative way of sharing benefits and responsibilities. To this end, delegators in DPoS are considered an equally important aspect of network stability in addition to validators.
-
-Oraichain’s all-important decision to apply DPoS in early 2020 has empowered the strategic long-term vision of constructing its robust blockchain as the world’s first AI Layer 1 for Data Economy and AI Oracle services. Validators on Oraichain Mainnet 2.0 join forces to attain a stable, secure, and high-throughput infrastructure at scale while powering a complete AI x Blockchain ecosystem for the creation of a new generation of AI-powered smart contracts and Dapps. Besides Mainnet, validators also participate in other subnets of specific purposes such as VRF, AI Oracle, AI Executor, Kawaiiverse Subnetwork, aiRight Subnetwork, and more with an interexchangable mechanism of native tokens as incentives.
-
-Towards a future of decentralized computating models, the role of validators will become more important and essentially the workers, data keepers and verifiers of the digital world.
+Text
+"Lenovo IdeaPad 100-15IBD 80QQ002DUS 15.6"""" 16:9 Notebook - Intel Core i3 (5th
+Gen) i3-5020U Dual-core (2 Core) 2.20 GHz -"
+"ASUS Metallic 15.6"""" GL552VW-DH74 Laptop PC with Intel Core i7-6700HQ
+Processor, 16GB Memory, 1TB Hard Drive and Windows 10"
+"Refurbished Apple MacBook Pro 15.4"""" Retina i7-3635QM 2.4GHz 16GB 256GB SSD
+Laptop ME664LL/A"
+"Dell Inspiron 15 5000 i5567 15.6"""" Laptop, Touchscreen, Windows 10 Home,
+Intel Core i7-7500U Processor, 16GB RAM, 1TB Hard Drive"
+"Refurbished HP Stream 14"""" Laptop, Windows 10 Home, Intel Celeron N3060
+Processor, 4GB RAM, 32GB eMMC Storage"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB FHD FHD INFINITY edge Nvidia
+GTX960M Windows 10 Home Laptop silver"
+"HP ZBook 17 G3 Mobile Workstation - 17.3"""" - Core i7 6820HQ - 16 GB RAM - 1
+TB HDD"
+"Asus Chromebook C201PA-DS01 11.6"""" Chromebook - Rockchip Cortex A17 RK3288
+Quad-core (4 Core) 1.80 GHz - Navy Blue - 2 GB LPDDR3 RAM - ARM Mali-T764 -
+Chrome OS - 1366 x 768 16:9 Display – Bluetooth"
+"iView 13.3"""" 1330NB Laptop PC with Intel Atom Cherry Trail Z8300 Processor,
+2GB Memory, 32GB Flash Drive and Windows 10"
+"Certified Refurbished - Apple MacBook Pro MC700LL/A 13-Inch Laptop - 2.3Ghz
+Core i5 / 4GB RAM / 320GB"
+"Dell Inspiron 15-5577 Notebook with Intel i7-7700HQ, 16GB 512GB SSD"
+"Dell Latitude E6420 Laptop - HDMI - Intel i5 2.5ghz - 6GB DDR3 - 320GB - DVDRW
+- Windows 10 64bit - Refurbished"
+"Acer Midnight Black Aspire E-15 15.6"""" E5-521-24PQ Laptop PC with AMD E2-6110
+Quad-Core Processor, 4GB Memory, 1TB Hard Drive and Windows 8.1 with Wireless
+Mouse, Case, and McAfee Security Protectio"
+"Refurbished Dell XPS 13 9350 i5-6200U 8GB 256GB PCIe SSD FHD 1080p INFINITY
+Windows 10 laptop silver"
+"Dell - Inspiron 15 3000 15.6"""" - Intel Core i5 - 8GB 2400MHz DDR4 - 1TB 5400
+RPM - HD Graphics 620"
+"Dell Inspiron 15 5000 i5578 15.6"""" Laptop, Touchscreen, 2-in-1, Windows 10
+Home, Intel Core i7-7500U Processor, 16GB RAM, 512GB Solid State Drive"
+"12.5"""" Ultra Slim Laptop, Windows 10 Home, Office 365 Personal 1-Year
+Subscription Included ($69.99 Value), Intel Processor, 32GB storage, Front
+camera with 10 hour battery"
+"2016 Newest Model HP Envy 17.3"""" Full HD High Performance Touchscreen Laptop
+Computer- 6th Gen i7-6700HQ Quad-Core Processor, 16GB RAM, 1TB HDD,DVD Burner,
+Backlit Keyboard, Wireless AC, Windows 10"
+"Refurbished Dell 14"""" Latitude E6440 Laptop PC with Intel Core i5-4300M
+Processor, 8GB Memory, 256GB Solid State Drive and Windows 10 Pro"
+"Refurbished Apple MacBook Air 11.6"""" Laptop Intel Core i5-2467M 1.6GHz 2GB
+64GB SSD MC968LL/A"
+Apple MMGF2LL/A MacBook Air 13.3-Inch Laptop (128 GB)
+Refurbished Apple Macbook Air MD231LL/A 13.3-inch Laptop
+"Acer Denim White 11.6"""" R11 CB5-132T-C32M Chromebook PC with Intel Celeron
+N3150 Processor, 2GB Memory, touch screen, 32GB Hard Drive and Google Chrome"
+"Apple MacBook Air MJVM2LL/A 11.6-Inch laptop(1.6 GHz Intel i5, 128 GB SSD,
+Integrated Intel HD Graphics 6000, Mac OS X Y"
+"Dell Epic Silver 17.3"""" Alienware AW17R3-4175SLV Laptop PC with Intel Core
+i7-6700HQ Processor, 16GB Memory, 256GB Solid State Drive and Windows 10 Home"
+"Refurbished HP Pavilion 15-au020wm 15.6"""" Laptop, Windows 10 Home, Intel Core
+i5-6200U Dual-Core Processor, 8GB RAM, 1TB Hard Drive"
+"ASUS ZenBook Flip UX360CA-UHM1T 13.3"""" 2-in 1 Laptop, Touchscreen, Intel Core
+m3-7Y30 Processor, 8GB RAM, 256GB Solid State Drive, Windows 10"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 128GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 Home Laptop silver"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 180GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 PROFESSIONAL Laptop silver"
+"HP Black 15.6"""" 15-f233wm Laptop PC with Intel Celeron N3050 Processor, 4GB
+Memory, 500GB Hard Drive and Windows 10 Home"
+"Lenovo ThinkPad X1 Yoga - 14"""" - Core i7 6500U - 8 GB RAM - 512 GB SSD"
+"Dell XPS9360-7758SLV-PUS 13.3"""" Intel Core i7-7560U 8GB 256GB Pie Solid State
+Drive Windows 10 Home Traditional Laptop"
+"Acer Chromebook R 11 C738T-C5R6 - 11.6"""" - Celeron N3150 - 4 GB RAM - 32 GB
+SSD - US"
+"Apple MacBook Pro with Touch Bar - 13.3"""" - Core i5 - 8 GB RAM - 256 GB SSD -
+English"
+"Dell Epic Silver 17.3"""" Alienware AW17R3-1675SLV Laptop PC with Intel Core
+i7-6700HQ Processor, 8GB Memory, 1TB Hard Drive and Windows 10 Home"
+"HP Pavilion 15-au030wm 15.6"""" Manhattan Gold Laptop, Touch Screen, Windows
+10, Intel Core i5-6200U Processor, 8GB Memory, 1TB Hard Drive"
+"Dell - Inspiron 15 5000 2-in-1, 15.6-inch FHD, Intel Core i7-7500U, 8GB
+2400MHz DDR4, 1TB 5400 rpm Hard , Intel HD graphics 620"
+"Refurbished Dell XPS 13 9360 i5-7200U 8GB 128GB SSD FHD INFINITY Windows 10
+Home laptop silver"
+"Acer Granite Gray 15.6"""" CB3-531-C4A5 Chromebook PC with Intel Celeron N2830
+Dual-Core Processor, 2GB Memory, 16GB Hard Drive and Chrome OS"
+"HP EliteBook Folio G1 - 12.5"""" - Core m5 6Y57 - 8 GB RAM - 256 GB SSD"
+"HP ZBook 17 G3 Mobile Workstation - 17.3"""" - Core i7 6700HQ - 8 GB RAM - 500
+GB HDD"
+"Dell Inspiron i57676370GRY 17.3"""" Laptop, Windows 10 Home, Intel Core
+i7-7500U Processor, 16GB RAM, 2TB Hard Drive"
+"Dell - Inspiron 11.6"""" Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash
+Memory - Bali blue"
+"Dell Inspiron 15 Gaming Edition 15.6 Laptop Intel Core i7-6700HQ
+Processor,NVIDIA GeForce GTX 960M Graphics, 16GB RAM, 1TB Hard Drive"
+"Newest HP Envy 17t 17.3"""" Full HD High Performance Touchscreen Laptop PC (6th
+Gen i7-6700HQ Quad-Core Processor, 16GB RAM, 1TB HDD,DVD Burner, Backlit
+Keyboard, Windows 10)"
+"HP EliteBook 850 G3 - 15.6"""" - Core i5 6200U - 8 GB RAM - 256 GB SSD"
+"Open Box Alienware 15 4K UHD Touchscreen Gaming Laptop Intel Skylake Core
+i7-6700HQ 16GB DDR4 Memory 256GB SSD + 1TB HDD NVIDIA GeForce GTX 970M Klipsch
+Audio USB 3.0 Type-C 802.11ac Bluetooth 4.1 Win"
+"Certified Refurbished - Apple MacBook Pro Retina 15-Inch Laptop - 2.6Ghz Core
+i7 / 8GB RAM / 512GB SSD MC976LL/A (Grade B)"
+"Apple MacBook - 12"""" - Core m5 - 8 GB RAM - 512 GB flash storage - English"
+"14"""" Ultra Slim Laptop, Windows 10 Home, Office 365 Personal 1-Year
+Subscription Included ($69.99 Value), Full HD, Intel Processor, 32GB storage,
+Front camera with 10 hour battery"
+"Acer Nitro 5 Gaming Laptop, 7th Gen Intel Core i7-7700HQ, GeForce GTX 1050 Ti
+Graphics, 16GB DDR4, 256GB SSD, 1TB HDD, Windows 10 Home, AN515-51-70V4"
+"Razer Blade 14"""" QHD+ Touchscreen Gaming Laptop 512GB - NVIDIA GeForce GTX
+870M"
+"HP Stream 14"""" Laptop, Windows 10 Home, Office 365 Personal 1-year included,
+Intel Celeron N3060 Processor, 4GB RAM, 32GB eMMC Storage"
+"Apple MacBook Pro with Retina display - 15.4"""" - Core i7 - 16 GB RAM - 256 GB
+flash storage - English"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 180GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 Home Laptop silver"
+"HP EliteBook Revolve 810 G3 Tablet - 11.6"""" - Core i5 5200U - 4 GB RAM - 128
+GB SSD"
+HP X7T64UA-ABA Chromebook 11 V010NR
+"HP Silver Iridium A12 15-cd040wm 15.6” Laptop, Touchscreen, Windows 10 Home,
+AMD Quad-Core A12-9720P, 12GB Memory, 1TB Hard Drive"
+Dell 15 Amd A12 Laptop
+"Microsoft Surface Pro 4 12.3"""" 4GB/128GB Intel Core m3"
+"Apple MMGG2LLA MacBook Air 13.3-Inch Laptop 1.6GHz Dual-Core Intel Core i5
+256GB"
+"iView Maximus II 11.6"""" Laptop, Touchscreen, 2-in-1, Windows 10, Intel Bay
+Trail Z3735F Processor, 2GB RAM, 32GB Storage"
+"Laptop Value Bundle w/Choice of Laptop, Case, Flash Drive & Printer"
+R554LA-RH31T(WX) I3-4005U 1.7G 6GB 500GB DVDRW 15.6IN W10
+"Dell Black Gloss 15.6"""" Inspiron 5558 Laptop PC with Intel Core i3-4030U
+Processor, 6GB Memory, Touchscreen, 500GB Hard Drive and Windows 10"
+"Refurbished Apple 13.3"""" MacBook Air A1466 MD760LL/A with Intel Core i5-4250U
+Processor, 4GB Memory, 128GB Solid State Drive and Mac OS X 10.10"
+"Lenovo Y50 Laptop 59421871-UHD Display/i7-4710HQ Processor/15.6 UHD
+(3840x2160) Display/NVIDIA GeForce GTX 860M 4GB/16 GB memory/Hybrid 1TB 5400
+RPM+8GB SSHD/Windows 8.1"
+"Refurbished Grade A Apple MacBook Air MD711LL/A 11.6"""" 1.3GHz Dual core i5
+4GB RAM 128GB SSD Silver"
+"Lenovo ThinkPad P70 - 17.3"""" - Core i7 6700HQ - 16 GB RAM - 500 GB HDD"
+"HP Elite x2 1012 G1 - 12"""" - Core m5 6Y54 - 8 GB RAM - 256 GB SSD - with HP
+Elite x2 1012 G1 Travel Keyboard HP Active Pen"
+C201PA-DS02 11.6IN 1.8G 4GB 16GB NO TOUCH CHROME OS NAVY BLUE
+"Dell Inspiron 15 5000 i5567 15.6"""" Laptop, Windows 10 Home, Intel Core
+i5-7200U Processor, 8GB RAM, 1TB Hard Drive"
+"Lenovo ideapad 320 15.6"""" Laptop, Windows 10, AMD A9-9420 Dual-Core
+Processor, 4GB RAM, 1TB Hard Drive - Onyx Black"
+"HP Pavilion 15-au018wm 15.6"""" Liquid Platinum Gaming Laptop, Touch Screen,
+Windows 10, Intel Core i7-6500U Processor, NVIDIAￂﾮ GeForce 940MX Graphics,
+12GB Memory, 1TB Hard Drive"
+"Apple MacBook Air - 13.3"""" - Core i5 - 8 GB RAM - 128 GB flash storage -
+English"
+"Acer Aspire E15 E5-522-89W6 15.6"""" Laptop Bundle, Windows 10 Home, AMD
+A8-7410 Processor, 4GB RAM, 500GB Hard Drive"
+"Dell Inspiron i31790000BLU 11.6"""" Laptop, Touchscreen, Windows 10 Home, Intel
+Core m3-7Y30 Processor, 4GB RAM, 500GB Hard Drive"
+"DELL Inspiron 13 5000 i5378-3031GRY Intel Core i3 7th Gen 7100U (2.40 GHz) 4
+GB Memory 1 TB HDD 13.3"""" Touchscreen 1920 x 1080 2-in-1 Laptop Windows 10
+Home 64-bit"
+"Dell Silver 15.6"""" Inspiron 5559 FHD Touch Laptop PC with Intel Core i7-6500U
+Processor, 8GB Memory, touch screen, 1TB Hard Drive and Windows 10 Home"
+"Acer TravelMate P658-M-50NJ - 15.6"""" - Core i5 6300U - 8 GB RAM - 256 GB SSD
+- US International"
+"Refurbished Dell 15.6"""" Latitude E6530 WA5-0852 Laptop PC with Intel Core
+i7-3520M Processor, 12GB Memory, 750GB Hard Drive and Windows 10 Pro"
+"Certified Refurbished - Apple MacBook Pro 13-Inch Laptop - 2.26Ghz Core 2 Duo
+/ 4GB RAM / 320GB and Up HDD MB990LL/A (Grade A)"
+"Acer Swift 1 SF113-31-P5CK 13.3"""" Ultra-Thin Laptop , Intel Pentium N4200
+Processor, 4GB RAM, 64GB Storage Drive & 13.3” Full HD Widescreen Display"
+"HP 15-ay039wm 15.6"""" Silver Fusion Laptop, Windows 10, Intel Core i3-6100U
+Processor, 8GB Memory, 1TB Hard Drive"
+Inspiron 15-3541 Notebook
+"Refurbished Dell 15.6"""" Latitude E5520 WA5-0903 Laptop PC with Intel Core
+i5-2410M Processor, 8GB Memory, 500GB Hard Drive and Windows 10 Pro"
+"Acer Aspire R 13 R7-371T-59Q1 - 13.3"""" - Core i5 5200U - 8 GB RAM - 128 GB
+SSD (2x)"
+"Refurbished Sony Carbon Black Ultrabook 13.3"""" VAIO Duo SVD13213CYB Laptop PC
+with Intel Core i5-4200U Dual-Core Processor, 4GB Memory, touch screen, 128GB
+SSD and Windows 8"
+"14"""" Full HD IPS screen Laptop, Ultra-Slim Laptop, Windows 10, Intel Atom
+Quad Core Processor, 2GB RAM, 32GB Flash Storage with a Carry Case included"
+E1-731-4699 2020M 4GB 500GB W7HP 64BIT 17.3IN BGN
+Apple MacBook Air 13.3 Inch Laptop MD508LL/A (Certified Refurbished)
+"HP EliteBook 840 G3 - 14"""" - Core i5 6300U - 8 GB RAM - 500 GB HDD"
+"Apple MacBook Pro 13.3 Intel Core 2 Duo 2.26GHz 2GB 160GB Laptop MB990LL/A -
+Certified Refurbished"
+"Refurbished Dell Black 14"""" E6420 Laptop PC with Intel Core i5 Processor, 6GB
+Memory, 320GB Hard Drive and Windows 10 Home"
+"Dell Silver 13.3"""" XPS XPS9350-4007SLV Laptop PC with Intel Core i5-6200U
+Processor, 8GB Memory, touch screen, 256GB Solid State Drive and Windows 10
+Home"
+"Dell XPS9560-5000SLV 15.6"""" with 4K Touch Display Core i5 8GB, 256GB SSD GTX
+1050 Ultra Thin and Light Laptop"
+Value Bundle Buy a MAXIMUS 11.6; Laptop PC Case and Save
+"Open Box Acer Aspire V15 Nitro Black Edition VN7-591G-79YZ 15.6"""" Laptop
+Computer"
+"HP 11.6"""" 11-r014wm Stream Laptop PC, Windows 10 Home, Office 365 Personal 1
+year subscription included, Intel Celeron N3050 Dual-Core Processor, 2GB
+Memory, 32GB Hard Drive"
+"Dell Silver 13.3"""" XPS FHD Laptop PC with Intel Core i5-6200U Processor, 4GB
+Memory, 128GB Solid State Drive and Windows 10 Home"
+"Apple MacBook Air 13.3 Inch Laptop MJVE2LL/A Intel Core i5 1.6GHz, 4GB RAM,
+128GB SSD (Scratch and Dent Refurbished)"
+"HP T6F47UT Notebook 14"""" HD LED Display i5-6300U w/ 8GB RAM 500GB HDD Laptop"
+"Refurbished HP 14"""" Elitebook 8470P Laptop PC with Intel Core i5-3320M
+Processor, 4GB Memory, 320GB Hard Drive and Windows 10 Pro"
+"HP Chromebook 11 G5 - 11.6"""" - Celeron N3060 - 2 GB RAM - 16 GB SSD"
+"Lenovo ThinkPad X1 Yoga - 14"""" - Core i5 6200U - 8 GB RAM - 256 GB SSD"
+"HP 15-ba052wm 15.6"""" Laptop, Touchscreen, Windows 10 Home, AMD A10-9600P
+Quad-Core APU Processor, 8GB RAM, 1TB Hard Drive"
+"Apple MacBook Air - 13.3"""" - Core i5 - 8 GB RAM - 256 GB flash storage -
+English"
+"Acer CB3-532-C47C 15.6"""" Chromebook, Chrome OS, Intel Celeron N3060 Dual-Core
+Processor, 2GB RAM, 16GB Internal Storage"
+"Dell - i7559-7514GRY 15.6"""" 4K Ultra HD Touch screen Laptop with Intel Core
+i7-6700HQ Processor, 16GB Memory, 1T plus 128GB solid state drive, NVIDIA
+GeForce GTX 960M graphics, Windows 10 Home"
+"Refurbished HP Silver 15.6"""" 15-f271wm Laptop PC with Intel Pentium N3540
+Quad-Core Processor, 4GB Memory, 500GB Hard Drive and Windows 10 Home"
+"HP ZBook 15 G3 Mobile Workstation - 15.6"""" - Core i7 6700HQ - 8 GB RAM - 500
+GB HDD"
+"HP 15-ay070wm 15.6"""" Realtree Xtra Camo Laptop, Windows 10, Intel Pentium
+N3710 Processor, 4GB Memory, 1TB Hard Drive"
+"Lenovo ThinkPad P50 - 15.6"""" - Xeon E3-1505MV5 - 16 GB RAM - 256 GB SSD"
+EXCESS TS 15.6 i7 16G 512G
+"Refurbished HP 15-f387wm 15.6"""" Laptop, Touchscreen, Windows 10 Home, AMD
+Quad-Core A8-7410 APU Processor, 4GB RAM, 500GB Hard Drive"
+"Dell Latitude E6440 14 LED Notebook - Intel Core i7 i7-4610M Dual-core (2
+Core) 3 GHz - Black, Silver X0D14"
+"Hp 15-ay000 15-ay068nr 15.6"""" Notebook - Intel Core I7 [6th Gen] I7-6500u
+Dual-core [2 Core] 2.50 Ghz - 8 Gb Ddr3l Sdram - 1 Tb Hdd - Windows 10 Home
+64-bit - 1366 X 768 - Brightview - (x0h83ua-aba)"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 256GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 PROFESSIONAL Laptop silver"
+"HP 11.6"""" 11-r014wm Stream Laptop PC with Intel Celeron N3050 Dual-Core
+Processor, 2GB Memory, 32GB Hard Drive and Windows 10 Home, Microsoft Office
+365 Personal (1yr subscription)"
+"Refurbished Grade A Apple MacBook Air 13.3"""" Intel Core i5 3427U Processor
+4GB Memory 128GB SSD Mac OS X Silver"
+"ASUS ZenBook Flip UX360CA 13.3-inch Touchscreen Convertible Laptop Core m3 8GB
+DDR3 256GB SSD with Windows 10"
+HP X0S48UA Pavilion Notebook 15-au091nr
+"HP Black Licorice 15.6"""" Touch 15-g059wm Laptop PC with AMD Quad-Core A8-6410
+Processor, 4GB Memory, touch screen, 750GB Hard Drive and Windows 8.1 (Free
+Windows 10 Upgrade before July 29, 2016)"
+"HP 15-f222wm – 15.6 Laptop ,Touchscreen, Windows 10 Home, Intel Pentium Quad-
+Core Processor, 4GB Memory, 500GB Hard Drive"
+Chromebook - 14-ak040nr 14 Inch Chromebook 14-ak040nr (ENERGY STAR)
+"Acer Black 15.6"""" Aspire E5 Laptop PC with Intel Pentium 3556U Dual-Core
+Processor, 4GB Memory, touch screen, 500GB Hard Drive and Windows 8.1 (Free
+Windows 10 Upgrade before July 29, 2016)"
+"Dell Black 15.6"""" Inspiron i3552 Laptop PC with Intel Celeron N3050
+Processor, 4GB Memory, 500GB Hard Drive and Windows 10 Home"
+"Refurbished Apple MacBook Pro 13.3"""" LED Intel i5-3210M Core 2.5GHz 4GB 500GB
+Laptop MD101LLA"
+"Refurbished Samsung Silver 11.6"""" XE303C12-A01US Chromebook PC with Samsung
+Exynos 5 Dual-Core Processor, 2GB Memory, 16GB Flash Memory and Chrome OS"
+"Refurbished Apple MacBook Air 11.6"""" MD711LL/A i5-4250U Dual-Core 1.3GHz 4GB
+128GB SSD Laptop"
+"HP 15-ay041wm 15.6"""" Silver Fusion Laptop, Touch Screen, Windows 10, Intel
+Core i3-6100U Processor, 8GB Memory, 1TB Hard Drive"
+Panasonic CF-54F0001VM 14-inch Semi-Rugged Laptop
+"Refurbished HP Ultrabook 14"""" EliteBook Folio 9470M WA5-1162 Laptop PC with
+Intel Core i7-Processor 3667U, 16GB Memory, 256GB Solid State Drive and
+Windows 10 Pro"
+"Grade A Refurbished Apple Silver 13.3"""" MacBook Pro with Intel Core i5-3210M
+Processor, 4GB Memory, 500GB Hard Drive and Mac OS X 10.10.5"
+"Dell Silver 17.3"""" Inspiron 5759 Laptop PC with Intel Core i7-6500U
+Processor, 16GB Memory, 2TB Hard Drive and Windows 10 Home"
+"Certified Refurbished - Apple MacBook Pro Retina 15-Inch Laptop - 2.3Ghz Core
+i7 / 8GB RAM / 256GB SSD MC975LL/A (Grade B)"
+"Lenovo Flex 3-1580 Tablet PC - 15.6"""" - Wireless LAN - Intel Core i7 i7-6500U
+Dual-core (2 Core) 2.50 GHz - Black"
+"Dell Gray 13.3"""" Inspiron 13 5000 i5368-10024GRY Laptop PC with Intel Core
+i7-6500U Processor, 8GB Memory, touch screen, 256GB Solid State Drive and
+Windows 10 Home"
+"Refurbished Apple MacBook Air 11.6"""" Laptop Intel Core i5-4260U 1.4GHz 4GB
+128GB SSD MD711LLB"
+"Apple MacBook Air MD760LL/A Intel Core i5-4250U X2 1.3GHz 4GB 128GB SSD
+(Certified Refurbished)"
+"Microsoft Surface Book - 13.5"""" - Core i7 6600U - 8 GB RAM - 256 GB SSD -
+English - North America"
+"HP Silver 17.3"""" Pavilion 17-g121wm Laptop PC with AMD A10-8700P Processor,
+8GB Memory, 1TB Hard Drive and Windows 10 Home"
+"Samsung Notebook 9 Spin 13.3"""" NP940X3L-K01US Pure Black"
+"Refurbished Apple Silver 13.3"""" MD101LL/A MacBook Pro with Intel Core i5
+Processor, 4GB Memory, 500GB Hard Drive and Mac OS X 10.11 El Capitan"
+"HP Chromebook 11 G5 - 11.6"""" - Celeron N3060 - 4 GB RAM - 16 GB SSD"
+"Dell Silver 17.3"""" Inspiron 5000 Series i5755-4287SLV Laptop PC with AMD
+A8-7410 Processor, 8GB Memory, touch screen, 1TB Hard Drive and Windows 10
+Home"
+"MAXIMUS 11.6"""" Laptop PC with Intel Atom Z3735F Quad-Core Processor, 2GB
+Memory, touch screen, 32GB Storage and Windows 10"
+"Dell Inspiron i55787451GRY 15.6"""" Laptop, Touchscreen, Windows 10 Home, Intel
+Core i5-7200U Processor, 4GB RAM, 500GB Hard Drive"
+"ASUS X540SA 15.6"""" Laptop, Windows 10, Intel Pentium N3710 Processor, 4GB
+RAM, 1TB Hard Drive"
+"Dell Inspiron i53787171GRY 13.3"""" Laptop, Touchscreen, Windows 10 Home, Intel
+Core i7-7500U Processor, 8GB RAM, 256GB Solid State Drive"
+"Dell XPS 13.3"""" Laptop, Touchscreen, Windows 10 Home, Intel Core i5-7200U
+Processor, 8GB RAM, 256GB Solid State Drive"
+"Refurbished HP Natural Silver 15.6"""" Envy Laptop PC with Intel Core i5-5200U
+Processor, 6GB Memory, touch screen, 1TB Hard Drive and Windows 10 Home"
+"Dell Inspiron 15 Gaming Edition 15.6"""" Gray 7559 Laptop PC with Intel Core
+i7-6700HQ Processor, 8GB Memory, touch screen, 1TB Hybrid Hard Drive and
+Windows 10 Home"
+"MSI GT73VR TITAN-427 17.3"""" Notebook w/ Intel i7, 16GB RAM & 1TB HDD"
+"Refurbished Dell Black 15.6"""" Latitude E6530 Laptop PC with Intel Core
+i5-3210M Processor, 6GB Memory, 500GB Hard Drive and Windows 10 Home"
+"Refurbished Apple MacBook 13.3"""" Laptop Intel Core 2 Duo P7550 2.26GHz 250GB
+2GB - MC207LLA"
+"Dell Inspiron 17 5000 i5767 17.3"""" Laptop, Windows 10 Home, Intel Core
+i7-7500U Processor, 8GB RAM, 1TB Hard Drive"
+"Dell Inspiron i55782451GRY 15.6"""" Laptop, Touchscreen, Windows 10 Home, Intel
+Core i5-7200U Processor, 8GB RAM, 1TB Hard Drive"
+"Mint Dell Latitude E6420 Laptop Core i5 2520M 2.5GHz 4GB 320GB 14.1"""" Windows
+7 (Refurbished)"
+"HP 14-Bw010Nr 14"""" Laptop, Windows 10 Home, AMD E2-9000e Dual-Core Processor,
+4GB RAM, 500GB Hard Drive"
+"Refurbished Apple MacBook Pro 13.3"""" 2.4GHz Dual-Core Intel i5 4GB 500GB HDD
+Laptop MD313LLA"
+"Refurbished Dell 14"""" E6420 Laptop PC with Intel Core i5 Processor, 4GB
+Memory, 320GB Hard Drive and Windows 10 Pro"
+"Apple Macbook Laptop Value Bundle w/Choice of Refurbished Macbook Laptop,
+Case, Flash Drive ; Mouse Bundle"
+"HP Chromebook 11 G4 - Education Edition - 11.6"""" - Celeron N2840 - 2 GB RAM -
+16 GB SSD"
+"Microsoft Surface Book - 13.5"""" - Core i7 6600U - 16 GB RAM - 512 GB SSD -
+English - North America"
+"Refurbished Dell XPS 15 9550 i7-6700HQ 16GB 256GB PCIe SSD UHD 4K Touch-Screen
+INFINITY Nvidia GTX960M Windows 10 Home Laptop silver"
+"Refurbished Toshiba Satellite Radius 15.6"""" Laptop, Touchscreen, 2-in-1,
+Windows 10 Home, Intel Core i7-6500U Processor, 12GB RAM, 1TB Hard Drive"
+LENOVO T510 1ST GEN I5 2.4G 8GB 256GB DVD W10P
+"New Apple MMGF2LL/A MacBook Air 13.3-Inch Laptop (8GB RAM 128 GB SSD) MMGF2
+NEWEST VERSION"
+"Refurbished Dell XPS 15 9550 i7-6700HQ 16GB 512GB PCIe SSD UHD 4K Touch-Screen
+INFINITY Nvidia GTX960M Windows 10 Home Laptop silver"
+"Refurbished Dell XPS 13 9360 i5-7200U 8GB 256GB PCIe SSD FHD INFINITY Windows
+10 Home laptop silver"
+"HP Spectre X360 15-AP012DX 2-in-1 15.6"""" 4K Touchscreen Notebook Intel Core
+i7-6500U 16GB DDR3L 256GB SSD Windows 10 - Natural Silver Factory Refurbished"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 128GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 PROFESSIONAL Laptop silver"
+"HP Silver Iridium Ci5 15-cc050wm 15.6"""" Laptop, Touchscreen, Windows 10 Home,
+Intel Core i5-7200U Processor, 12GB Memory, 1TB Hard Drive"
+"Newest HP Envy 15t High Performance Laptop PC with Full HD Touchscreen ( Intel
+i7 Processor, 32GB RAM, 1TB HDD + 128 GB SSD, 15.6 Inch FHD (1920 x 1080)
+Touchscreen, Windows 10)"
+"HP 15.6"""" Touchscreen Notebook w/ AMD A8, 4GB RAM, 1TB HDD, Windows 10 Home -
+Red"
+I5-6200U 8GB 256GB 13.3IN TOUCH SCREEN W10
+"Acer TravelMate P278-MG-788Z - 17.3"""" - Core i7 6500U - 8 GB RAM - 1 TB HDD -
+US International"
+"HP Flyer Red 15.6"""" 15-f272wm Laptop PC with Intel Pentium N3540 Processor,
+4GB Memory, 500GB Hard Drive and Windows 10 Home"
+"Apple MacBook Pro 13.3"""" Intel Dual Core i5 2.5GHz 4GB 500GB Laptop -
+MD101LLA"
+"HP EliteBook 840 G3 - 14"""" - Core i5 6200U - 8 GB RAM - 128 GB SSD"
+"Apple MacBook Air MD711LL/A 11.6"""" Intel i5 1.3 GHz Dual-Core 4GB RAM 128GB
+HD, Refurbished Scratch and Dent"
+"Refurbished Dell XPS 15 9550 i5-6300HQ 8GB 1TB + 256GB SSD FHD FHD
+INFINITYedge Nvidia GTX960M Windows 10 Home Laptop silver"
+"Acer Chromebook C910-54M1 - 15.6"""" - Core i5 5200U - 4 GB RAM - 32 GB SSD -
+US"
+"Dell Inspiron i57656382GRY 17.3"""" Laptop, Windows 10 Home, AMD FX 9800P
+Processor, 16GB RAM, Radeon R8 M445DX Dual Graphics, 2TB Hard Drive"
+"Refurbished Dell XPS 15 9550 i7-6700HQ 16GB 512GB PCIe SSD FHD INFINITY Nvidia
+GTX960M Windows 10 Home Laptop silver"
+"Dell Inspiron 11 3162 Series 11.6"""" Laptop Premium Bundle, Bali Blue Sleeve +
+Blue Wireless Mouse, Windows 10, Intel Celeron N3060 Dual Core, 4GB RAM, 32GB
+eMMC"
+"Inspiron 11.6-inch Laptop Intel Celeron 2GB Ram 32GB eMMC Flash Memory Bali
+Blue"
+"Lenovo Black 15.6"""" G50 Laptop PC with AMD A8-6410 Processor, 4GB Memory,
+500GB Hard Drive and Windows 8.1 (Eligible for Free Windows 10 Upgrade)"
+"MSI GT62VR Dominator 15.6"""" Gaming Laptop i7-7700HQ 16GB 256GB 1TB GTX1070
+Win10"
+"Dell Alienware 17 R4 17.3"""" Laptop, Windows 10 Home, Intel Core i7-7700HQ
+Processor, 16GB RAM, 1TB Hard Drive"
+"HP Flyer Red 15.6"""" 15-f272wm Laptop PC with Intel Pentium N3540 Processor,
+4GB Memory, 500GB Hard Drive and Windows 10 Home, Refurbished"
+"Lenovo ideapad 110-151BR 15.6"""" Laptop, Windows 10 Home, Intel Pentium N3710
+Processor, 4GB RAM, 1TB Hard Drive"
+"Apple MacBook Air 13.3-Inch Laptop (Intel Core i5 1.6GHz, 128GB Flash, 8GB
+RAM, OS X El Capitan)"
+"ASUS ROG Strix GL553VD 15.6"""" Gaming Laptop GTX 1050 4GB Intel Core i7-7700HQ
+16GB DDR4 1TB 7200RPM HDD RGB Keyboard"
+"Sony 11.6"""" VAIO Duo RBSVD11225CYB Laptop PC with Intel Core i7-3537U
+Processor, touch screen, 256GB SSD and Windows 8, Refurbished"
+"Lenovo ThinkPad P50 - 15.6"""" - Core i7 6820HQ - 16 GB RAM - 256 GB SSD"
+"Dell Silver 13.3"""" XPS 13 Laptop PC with Intel Core i7-6560U Processor, 8GB
+Memory, touch screen, 256GB Solid State Drive and Windows 10 Home"
+"Acer R11 CB5-132T-C1LK 11.6"""" Chromebook, Touchscreen, 2-in-1, Chrome, Intel
+Celeron N3150 Quad-Core Processor, 4GB RAM, 32GB Flash Storage"
+"HP Stream 14-ax020nr 14"""" Laptop, Windows 10 Home, Office 365 Personal 1-year
+subscription included, Intel Celeron N3060 Processor, 4GB RAM, 32GB eMMC
+Storage"
+S5-371-3164 I3-6100U 2.3G 4GB 128GB SSD 13.3IN 11AC BT4.0 W10H
+"Dell - Inspiron 2-in-1 11.6"""" Touch-Screen Laptop - Intel Pentium - 4GB
+Memory - 500GB HD - Red"
+"Refurbished Acer Midnight Black 15.6"""" Aspire E5-571-563B Laptop PC with
+Intel Core i5-4210U Processor, 6GB Memory, 1TB Hard Drive and Windows 8.1
+(Eligible for Free Windows 10 Upgrade)"
+"HP Chromebook 13 G1 - 13.3"""" - Core m5 6Y57 - 8 GB RAM - 32 GB SSD"
+"Dell - Inspiron 15 5000 2-in-1 15.6"""" Touch-Screen Laptop - Intel Core i3 -
+4GB Memory - 500GB 5400RPM HD - Gray"
+"Refurbished HP Black 14"""" Pavilion Beats Edition dm4-3099se Laptop PC with
+Intel Core i5-2450M Processor, 6GB Memory, 640GB Hard Drive and Windows 7 Home
+Premium"
+"Refurbished Apple MacBook Pro 15.4 Intel Core i7 2.6GHz 8GB 512GB Laptop
+MC976LL/A"
+"HP 15-bk010nr 15.6"""" Touchscreen Notebook 15-bk010nr Notebook"
+"HP Pavilion 15-bk020wm X360 15.6"""" Laptop, Touch Screen, 2 in 1, Windows 10,
+Intel Core i5-6200U Processor, 8GB Memory, 1TB Hard Drive, Natural Silver"
+"HP EliteBook Folio G1 - 12.5"""" - Core m7 6Y75 - 8 GB RAM - 256 GB SSD"
+"HP 14-ak030nr 14"""" Chromebook, Chrome, Intel Celeron N2840 Processor, 4GB
+RAM, 16GB eMMC"
+HP Chromebook 11 G4 Intel Celeron N2840 2.16 GHz 2 GB DDR3L-1600 SDRAM
+"Dell Inspiron i7559-763BLK 15.6"""" IPS Full-HD 1920x1080 Gaming Laptop Intle
+Quad Core, 8GB RAM, 256GB SSD, NVIDIA GeForce GTX960M 4GB GDDR5"
+"HP EliteBook 840 G3 - 14"""" - Core i7 6600U - 8 GB RAM - 512 GB SSD"
+"HP Elite x2 1012 G1 - 12"""" - Core m3 6Y30 - 4 GB RAM - 128 GB SSD - with HP
+Elite x2 1012 G1 Travel Keyboard HP Active Pen"
+"Epik Teqnio ELL1201T 12.5"""" Laptop, Windows 10 Home, Intel Atom x5-Z8350
+Processor, 2GB RAM, 32GB Flash Drive"
+"Acer Sleekbook Silver 11.6"""" V5-122P-0408 Touch Laptop PC with AMD A4-1250
+Processor, 4GB Memory, 500GB Hard Drive, touch screen and Windows 8"
+"HP Stream 11.6"""" Laptop, Windows 10 Home, Office 365 Personal 1-year
+subscription included, Intel Celeron N3060 Processor, 4GB RAM, 32GB eMMC
+Storage"
+Acer Chromebook 15 PC Laptop (CB5-571-C09S) 15.6-Inch 32GB - White
+ROG GL502VM-DS74 I7-7700HQ 2.8G 16GB 128GB SSD+1TB 15.6IN W10
+"Acer Sparkly Silver 14"""" CB3-431-C5FM Chromebook PC with Intel Celeron N3160
+Processor, 4GB Memory, 32GB Flash Drive and Chrome OS"
+"HP Envy 15-as014wm 15.6"""" Laptop, Full-HD IPS Touch Screen, Windows 10, Intel
+Core i7-6500U Processor, 8GB Memory, 1TB Hard Drive, Natural Silver"
+"Refurbished HP 14"""" EliteBook 8470P Laptop PC with Intel Core i5-3210M
+Processor, 4GB Memory, 128GB SSD and Windows 10 Pro"
+Apple MacBook Pro MJLT2LL/A 15.4-Inch Laptop with Retina Display (512 GB)
+"HP Chromebook 14 G4 - 14"""" - Celeron N2840 - 4 GB RAM - 16 GB SSD"
+"Refurbished Dell Black 15.6"""" Latitude E6530 WA5-0856 Laptop PC with Intel
+Core i7-3720QM Processor, 16GB Memory, 256GB Solid State Drive and Windows 10
+Pro"
+"ASUS Black 15.6; TP550LA-RHI5T01 2-in-1 Laptop PC with Intel Core i5-4210U
+Processor Bundle (Choice of Case or Speaker System)"
+"Acer Mineral Gray 14"""" Aspire One Cloudbook AO1-431-C8G8 Laptop PC, Windows
+10, Office 365 Personal 1-year subscription included with Intel Celeron N3050
+Processor, 2GB Memory, 32GB eMMC"
+"Msi GL62M621 Gl62m 7re-621 15.6 Inch Intel Core I7-7700hq 2.8ghz/ 8gb Ddr4/
+1tb Hdd + 128gb Ssd/ Gtx 1050 Ti/ Usb3.0/ Windows 10 Notebook (black)"
+"Refurbished HP Ultrabook Silver 14"""" EliteBook Folio 9470M WA5-1153 Laptop PC
+with Intel Core i5-1.8GHz 3427U, 8GB Memory, 128GB Solid State Drive and
+Windows 10 Home"
+"HP Black 15.6"""" 15-f211wm Laptop PC with Intel Celeron N2840 Processor, 4GB
+Memory, touch screen, 500GB Hard Drive and Windows 10 Home"
+"Lenovo ThinkPad P40 Yoga - 14"""" - Core i7 6500U - 8 GB RAM - 256 GB SSD"
+"Refurbished Dell 15.5"""" Lattitude E6520 Laptop PC with Intel Core i5
+Processor, 4GB Memory, 500GB Hard Drive and Windows 10 Pro"
+Dell XPS 12-9250 12.5 inch Tablet Intel Core m5 6Y54 8GB RAM 256GB SSD Win10
+Hewlett Packard P0B79UT#ABA Chromebook
+"Refurbished Dell XPS 15 9550 i7-6700HQ 16GB 512GB PCIe SSD FHD INFINITY Nvidia
+GTX960M Windows 10 PROFESSIONAL Laptop silver"
+"Dell Inspiron i5559 15.6 Inch FHD Touchscreen Laptop (Intel RealSense 3D
+Camera, Intel Core i5, 8 GB RAM, 1 TB HDD)"
+"Acer A315-51-380T 15.6"""" Laptop, 7th Gen Intel Core i3-7100U, 4GB DDR4, 1TB
+HDD, Windows 10 Home"
+"HP Silver Iridium Ci7 15-cc060wm 15.6"""" Laptop, Touchscreen, Windows 10 Home,
+Intel Core i7-7500U Processor, 12GB Memory, 1TB Hard Drive"
+"11.6"""" Convertible Touchscreen Laptop, Windows 10 Home, Office 365 Personal
+1-Year Subscription Included ($69.99 Value), Intel Processor, 32GB storage,
+Front camera with 8 hour battery"
+"Refurbished HP Pavilion x360 15-bk020wm 15.6"""" Laptop, Touchscreen, 2-in-1,
+Windows 10 Home, Intel Core i5-6200U Processor, 8GB RAM, 1TB Hard Drive"
+"HP Black Licorice 15.6"""" 15-F387WM Laptop PC with AMD A8-7410 Processor, 4GB
+Memory, touch screen, 500GB Hard Drive and Windows 10 Home"
+"HP Silver 15.6"""" EliteBook 755 G3 Laptop PC with AMD A12-8800B Quad-Core
+Processor, 8GB Memory, touch screen, 256GB Solid State Drive and Windows 7
+Professional"
+"Refurbished Dell XPS 13 9350 i7-6560U 16GB 512GB PCIe SSD QHD+ touch IRIS 540
+W10 silver"
+"HP Jaguar 15-bs070wm, 15.6"""" Natural Silver Touch Laptop, Windows 10, Intel
+Core i5-7200U Processor, 8GB Memory, 1TB Hard Drive"
+"Apple MacBook Pro with Touch Bar - 13.3"""" - Core i5 - 8 GB RAM - 512 GB SSD -
+English"
+"Dell Inspiron 15 Gaming Edition Black 15.6"""" 7559 Laptop PC with Intel Core
+i7-6700HQ Processor, 8GB Memory, 1TB Hybrid Hard Drive and Windows 10 Home"
+"HP Pavilion 17-ar050wm, 17.3"""" Laptop, Full HD IPS Dislpay, Windows 10 Home,
+AMD A10-9620P QC, 8GB Memory, 1TB Hard Drive, Mineral Silver"
+"Refurbished Dell XPS 13 9350 i7-6560U 8GB 256GB PCIe SSD QHD+ touch silver
+IRIS 540 laptop"
+"Acer Denim White 11.6"""" CB3-131-C3SZ Chromebook 11 PC with Intel Celeron
+N2840 Dual-Core Processor, 2GB Memory, 16GB Flash Storage and Google Chrome"
