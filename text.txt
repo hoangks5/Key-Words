@@ -5,56 +5,14 @@ It used to be that if you wanted to get a computer to do something new, you woul
 footnote
 footnote
 So this was the challenge faced by this man, Arthur Samuel. In 1956, he wanted to get this computer to be able to beat him at checkers. How can you write a program, lay out in excruciating detail, how to be better than you at checkers? So he came up with an idea: he had the computer play against itself thousands of times and learn how to play checkers. And indeed it worked, and in fact, by 1962, this computer had beaten the Connecticut state champion.
-
-00:55
-
-footnote
-footnote
 So Arthur Samuel was the father of machine learning, and I have a great debt to him, because I am a machine learning practitioner. I was the president of Kaggle, a community of over 200,000 machine learning practictioners. Kaggle puts up competitions to try and get them to solve previously unsolved problems, and it's been successful hundreds of times. So from this vantage point, I was able to find out a lot about what machine learning can do in the past, can do today, and what it could do in the future. Perhaps the first big success of machine learning commercially was Google. Google showed that it is possible to find information by using a computer algorithm, and this algorithm is based on machine learning. Since that time, there have been many commercial successes of machine learning. Companies like Amazon and Netflix use machine learning to suggest products that you might like to buy, movies that you might like to watch. Sometimes, it's almost creepy. Companies like LinkedIn and Facebook sometimes will tell you about who your friends might be and you have no idea how it did it, and this is because it's using the power of machine learning. These are algorithms that have learned how to do this from data rather than being programmed by hand.
-
-02:07
-
-footnote
-footnote
 This is also how IBM was successful in getting Watson to beat the two world champions at "Jeopardy," answering incredibly subtle and complex questions like this one. ["The ancient 'Lion of Nimrud' went missing from this city's national museum in 2003 (along with a lot of other stuff)"] This is also why we are now able to see the first self-driving cars. If you want to be able to tell the difference between, say, a tree and a pedestrian, well, that's pretty important. We don't know how to write those programs by hand, but with machine learning, this is now possible. And in fact, this car has driven over a million miles without any accidents on regular roads.
-
-02:40
-
-footnote
-footnote
 So we now know that computers can learn, and computers can learn to do things that we actually sometimes don't know how to do ourselves, or maybe can do them better than us. One of the most amazing examples I've seen of machine learning happened on a project that I ran at Kaggle where a team run by a guy called Geoffrey Hinton from the University of Toronto won a competition for automatic drug discovery. Now, what was extraordinary here is not just that they beat all of the algorithms developed by Merck or the international academic community, but nobody on the team had any background in chemistry or biology or life sciences, and they did it in two weeks. How did they do this? They used an extraordinary algorithm called deep learning. So important was this that in fact the success was covered in The New York Times in a front page article a few weeks later. This is Geoffrey Hinton here on the left-hand side. Deep learning is an algorithm inspired by how the human brain works, and as a result it's an algorithm which has no theoretical limitations on what it can do. The more data you give it and the more computation time you give it, the better it gets.
-
-03:48
-
-footnote
-footnote
 The New York Times also showed in this article another extraordinary result of deep learning which I'm going to show you now. It shows that computers can listen and understand.
-
-04:00
-
-footnote
-footnote
 (Video) Richard Rashid: Now, the last step that I want to be able to take in this process is to actually speak to you in Chinese. Now the key thing there is, we've been able to take a large amount of information from many Chinese speakers and produce a text-to-speech system that takes Chinese text and converts it into Chinese language, and then we've taken an hour or so of my own voice and we've used that to modulate the standard text-to-speech system so that it would sound like me. Again, the result's not perfect. There are in fact quite a few errors. (In Chinese) (Applause) There's much work to be done in this area. (In Chinese) (Applause)
-
-05:01
 Jeremy Howard: Well, that was at a machine learning conference in China. It's not often, actually, at academic conferences that you do hear spontaneous applause, although of course sometimes at TEDx conferences, feel free. Everything you saw there was happening with deep learning. (Applause) Thank you. The transcription in English was deep learning. The translation to Chinese and the text in the top right, deep learning, and the construction of the voice was deep learning as well.
-
-05:26
-
-footnote
-footnote
 So deep learning is this extraordinary thing. It's a single algorithm that can seem to do almost anything, and I discovered that a year earlier, it had also learned to see. In this obscure competition from Germany called the German Traffic Sign Recognition Benchmark, deep learning had learned to recognize traffic signs like this one. Not only could it recognize the traffic signs better than any other algorithm, the leaderboard actually showed it was better than people, about twice as good as people. So by 2011, we had the first example of computers that can see better than people. Since that time, a lot has happened. In 2012, Google announced that they had a deep learning algorithm watch YouTube videos and crunched the data on 16,000 computers for a month, and the computer independently learned about concepts such as people and cats just by watching the videos. This is much like the way that humans learn. Humans don't learn by being told what they see, but by learning for themselves what these things are. Also in 2012, Geoffrey Hinton, who we saw earlier, won the very popular ImageNet competition, looking to try to figure out from one and a half million images what they're pictures of. As of 2014, we're now down to a six percent error rate in image recognition. This is better than people, again.
-
-06:41
-
-footnote
-footnote
 So machines really are doing an extraordinarily good job of this, and it is now being used in industry. For example, Google announced last year that they had mapped every single location in France in two hours, and the way they did it was that they fed street view images into a deep learning algorithm to recognize and read street numbers. Imagine how long it would have taken before: dozens of people, many years. This is also happening in China. Baidu is kind of the Chinese Google, I guess, and what you see here in the top left is an example of a picture that I uploaded to Baidu's deep learning system, and underneath you can see that the system has understood what that picture is and found similar images. The similar images actually have similar backgrounds, similar directions of the faces, even some with their tongue out. This is not clearly looking at the text of a web page. All I uploaded was an image. So we now have computers which really understand what they see and can therefore search databases of hundreds of millions of images in real time.
-
-07:46
-
-footnote
-footnote
 So what does it mean now that computers can see? Well, it's not just that computers can see. In fact, deep learning has done more than that. Complex, nuanced sentences like this one are now understandable with deep learning algorithms. As you can see here, this Stanford-based system showing the red dot at the top has figured out that this sentence is expressing negative sentiment. Deep learning now in fact is near human performance at understanding what sentences are about and what it is saying about those things. Also, deep learning has been used to read Chinese, again at about native Chinese speaker level. This algorithm developed out of Switzerland by people, none of whom speak or understand any Chinese. As I say, using deep learning is about the best system in the world for this, even compared to native human understanding.
 This is a system that we put together at my company which shows putting all this stuff together. These are pictures which have no text attached, and as I'm typing in here sentences, in real time it's understanding these pictures and figuring out what they're about and finding pictures that are similar to the text that I'm writing. So you can see, it's actually understanding my sentences and actually understanding these pictures. I know that you've seen something like this on Google, where you can type in things and it will show you pictures, but actually what it's doing is it's searching the webpage for the text. This is very different from actually understanding the images. This is something that computers have only been able to do for the first time in the last few months.
 So we can see now that computers can not only see but they can also read, and, of course, we've shown that they can understand what they hear. Perhaps not surprising now that I'm going to tell you they can write. Here is some text that I generated using a deep learning algorithm yesterday. And here is some text that an algorithm out of Stanford generated. Each of these sentences was generated by a deep learning algorithm to describe each of those pictures. This algorithm before has never seen a man in a black shirt playing a guitar. It's seen a man before, it's seen black before, it's seen a guitar before, but it has independently generated this novel description of this picture. We're still not quite at human performance here, but we're close. In tests, humans prefer the computer-generated caption one out of four times. Now this system is now only two weeks old, so probably within the next year, the computer algorithm will be well past human performance at the rate things are going. So computers can also write.
