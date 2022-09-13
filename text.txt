@@ -98,21 +98,7 @@ So this process takes about four or five iterations. You can see we now have 62 
 footnote
 footnote
 So this kind of technique could allow us to fix a major problem, which is that there's a lack of medical expertise in the world. The World Economic Forum says that there's between a 10x and a 20x shortage of physicians in the developing world, and it would take about 300 years to train enough people to fix that problem. So imagine if we can help enhance their efficiency using these deep learning approaches?
-
-16:56
-
-footnote
-footnote
 So I'm very excited about the opportunities. I'm also concerned about the problems. The problem here is that every area in blue on this map is somewhere where services are over 80 percent of employment. What are services? These are services. These are also the exact things that computers have just learned how to do. So 80 percent of the world's employment in the developed world is stuff that computers have just learned how to do. What does that mean? Well, it'll be fine. They'll be replaced by other jobs. For example, there will be more jobs for data scientists. Well, not really. It doesn't take data scientists very long to build these things. For example, these four algorithms were all built by the same guy. So if you think, oh, it's all happened before, we've seen the results in the past of when new things come along and they get replaced by new jobs, what are these new jobs going to be? It's very hard for us to estimate this, because human performance grows at this gradual rate, but we now have a system, deep learning, that we know actually grows in capability exponentially. And we're here. So currently, we see the things around us and we say, "Oh, computers are still pretty dumb." Right? But in five years' time, computers will be off this chart. So we need to be starting to think about this capability right now.
-
-18:10
 We have seen this once before, of course. In the Industrial Revolution, we saw a step change in capability thanks to engines. The thing is, though, that after a while, things flattened out. There was social disruption, but once engines were used to generate power in all the situations, things really settled down. The Machine Learning Revolution is going to be very different from the Industrial Revolution, because the Machine Learning Revolution, it never settles down. The better computers get at intellectual activities, the more they can build better computers to be better at intellectual capabilities, so this is going to be a kind of change that the world has actually never experienced before, so your previous understanding of what's possible is different.
-
-18:50
 This is already impacting us. In the last 25 years, as capital productivity has increased, labor productivity has been flat, in fact even a little bit down.
-
-19:01
-
-footnote
-footnote
 So I want us to start having this discussion now. I know that when I often tell people about this situation, people can be quite dismissive. Well, computers can't really think, they don't emote, they don't understand poetry, we don't really understand how they work. So what? Computers right now can do the things that humans spend most of their time being paid to do, so now's the time to start thinking about how we're going to adjust our social structures and economic structures to be aware of this new reality. Thank you. (Applause)
